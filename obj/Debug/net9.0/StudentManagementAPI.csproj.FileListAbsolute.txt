@@ -6,7 +6,6 @@ D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\StudentManage
 D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\StudentManagementAPI.runtimeconfig.json
 D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\StudentManagementAPI.dll
 D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\StudentManagementAPI.pdb
-D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
 D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Invidual\InvidualProjects\StudentManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -19,6 +18,7 @@ D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\StudentManage
 D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\StudentManagementAPI.csproj.CoreCompileInputs.cache
 D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\StudentManagementAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\StudentManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\StudentManagementAPI.sourcelink.json
 D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Invidual\InvidualProjects\StudentManagementAPI\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
